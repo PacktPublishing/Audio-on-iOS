@@ -9,16 +9,18 @@ You’ll end the course by taking your learning and practically applying it to c
 <H2>What You Will Learn</H2>
 <DIV class=book-info-will-learn-text>
 <UL>
-<LI>Know how to start a TableViews and control the way that a TableViewDataSource operates 
-<LI>Provide proper data to a TableViewDelegate 
-<LI>List information with Arrays 
-<LI>Move from one screen to another with Segues and see how to pass data from one view controller to another 
-<LI>Enhance UI development for the end user by using a UINavigationController </LI></UL></DIV>
+<LI>Find out how to import audio
+<LI>Know how to play audio files
+<LI>Allow users to record audio 
+<LI>Save audio that a user has recorded
+<LI>Start and stop audio playback
+<LI>Save audio and other types of large data into Core Data 
+<LI>Set recording parameters
+<LI>Let users listen to previously recorded audio </LI></UL></DIV>
 
 ## Instructions and Navigation
 ### Assumed Knowledge
 To fully benefit from the coverage included in this course, you will need:<br/>
-To fully benefit from the coverage included in this course, you will need:
 
 ●	Prior working knowledge of Xcode and Swift
 
@@ -30,7 +32,6 @@ To fully benefit from the coverage included in this course, you will need:
 
 ### Technical Requirements
 This course has the following software requirements:<br/>
-This course has the following software requirements:
 
 ●	Xcode
 
